@@ -5,7 +5,7 @@ description: |
   reading what we have to say!
 author:
   - name: Laura N 
-    url: https://example.com/norajones
+    url: https://flor14.github.io/experiments/
     affiliation: University of British Columbia
     affiliation_url: https://example.com/spacelysprokets
 date: 08-13-2021
